@@ -29,9 +29,8 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
   - Noticias Planes vacunales
   - Sistema de Vigilancia (Pensar nombre)
 
----------
-Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre"
-----------
-Desarrollar diseño para las interiores para cuándo no hay subnivel
 
------- Cambios para el miércoles 10/06 para presentación grupo / 9:30 a 10:30 la presentación a las 10 hs.
+***Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre"***
+Desarrollar diseño para las interiores para cuándo no hay subnivel  
+
+Cambios para el miércoles 10/06 para presentación grupo / 9:30 a 10:30 la presentación a las 10 hs.
