@@ -18,7 +18,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - Aclarar ahora cómo repartirás tu tiempo para que no haya malos entendidos con los objetivos a cumplir.
 
 ## Comentarios 02/06/26
-- Tiene que haber un VER TODAS / en 
--- **Recorda...** / 
+- Tiene que haber un VER TODAS / en  
+  - **Recorda...** / 
 - **Noticias** (va a las Noticias ASPB)/ 
 - **Més contenidos** /
