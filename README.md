@@ -36,3 +36,5 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 
 ---------
 Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre"
+----------
+Desarrollar diseño para las interiores para cuándo no hay subnivel
