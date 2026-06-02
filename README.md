@@ -19,24 +19,27 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 
 ## Comentarios Reunión 02/06/26
 
-**6 Tarjetas** / Pensar los nombres 
+**6 Tarjetas** (falta decidir bien los nombres) 
   - Documentació operativa
   - Actualitzacions SEGIV
   - Aplicacions
   - Recorda
   - Notícies plans vacunals
-  - Sistema de Vigilància (Pensar nombre)
+  - Sistema de Vigilància
 
 **TODO**
-- Inlcuir los 6 apartados en el menú superior --> ✅
-- Substituir "Viure amb salut" por "Sobre InfoVacBCN" en el header --> ✅
+
+- Hacer prototipos de las páginas de los nuevos apartados
 - Diseñar las 6 tarjetas de los apartados e incluirlas en la homepage
 - Buscar nombres para diferenciar entre "Notícies" y "Novetats" --> Preguntar Laura
-- Eliminar las tarjetas del menú lateral --> 
 - Desarrollar diseño para los apartados que no tienen subnivel
 - Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre" --> ??
+  
+- Substituir "Viure amb salut" por "Sobre InfoVacBCN" en el header --> ✅
+- Inlcuir los 6 apartados en el menú superior --> ✅
+- Eliminar las tarjetas del menú lateral --> ✅
 
-**Objetivo**: Poder presentar los cambios el miércoles 10/06/2026 en la reunión de equipo. La reunión será de 9:30 a 10:30, Ana se unirá a parir de las 10:00.
+**Objetivo:** Poder presentar los cambios el miércoles 10/06/2026 en la reunión de equipo. La reunión será de 9:30 a 10:30 y Ana se unirá a parir de las 10:00.
 
 **Baja prioridad**
 - Concretar reunión con Bea para reordenar el contenido de vacunas corporativo
