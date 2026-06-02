@@ -23,3 +23,4 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
   - **Noticias** (va a las Noticias ASPB)
   - **Més contenidos** / Informes / 
 - Analizar bien el índice / Menú Superior / Diferencia entre Noticias y Novetats
+- En lugar de Novetats poer **Actualizaciones SEGIV**
