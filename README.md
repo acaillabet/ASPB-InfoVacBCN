@@ -29,6 +29,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 **5 Tarjetas**
   - Documentación operativa  
   - Actualizaciones SEGIV  
-  - Aplicaciones  
+  - Aplicaciones 
+  - Recuerda
   - Noticias Planes vacunales
   - Contenido Coorporativo Vacunas
