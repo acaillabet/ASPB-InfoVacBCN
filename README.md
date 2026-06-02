@@ -19,7 +19,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 
 ## Comentarios 02/06/26
 - Tiene que haber un VER TODAS
-  - **Recorda...**
+  - **Recorda...** /// PONERLA EN MODO TARJETA /// 
   - **Noticias** (va a las Noticias ASPB)
   - **Més contenidos** / Informes / 
 - Analizar bien el índice / Menú Superior / Diferencia entre Noticias y Novetats
