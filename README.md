@@ -18,7 +18,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - Aclarar ahora cómo repartirás tu tiempo para que no haya malos entendidos con los objetivos a cumplir.
 
 ## Comentarios Reunión 02/06/26
-- Analizar bien el índice / Menú Superior / Diferencia entre Noticias y Novetats
+- Menú Superior / Diferencia entre Noticias y Novetats
 - Sacar las tarjetas del menú lateral (no duplicadas)
 - Sobre InfoBCN pner en el HEADER
 
