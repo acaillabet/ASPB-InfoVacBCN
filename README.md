@@ -19,6 +19,6 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 
 ## Comentarios 02/06/26
 - Tiene que haber un VER TODAS / en 
-- **Recorda...** / 
+- - **Recorda...** / 
 - **Noticias** (va a las Noticias ASPB)/ 
 - **Més contenidos** /
