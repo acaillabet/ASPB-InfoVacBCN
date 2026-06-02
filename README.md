@@ -16,3 +16,6 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - Validar por parte de Raul el prototipo (en el sentido que esté todo lo que quieren poner)
 - Comentar los próximos pasos a seguir (maquetación en HTML / gestor de contenidos / Aclarando que es una tarea que hay que ver con que herramienta se lleva a cabo y dado que es algo nuevo para vos es complejo establecer el tiempo de desarrollo)
 - Aclarar ahora cómo repartirás tu tiempo para que no haya malos entendidos con los objetivos a cumplir.
+
+## Comentarios 02/06/26
+- Tiene que haber un VER TODAS / en **Recorda** / **Noticias** / **Més contenidos** /
