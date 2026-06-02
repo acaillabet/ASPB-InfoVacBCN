@@ -39,4 +39,4 @@ Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nomb
 ----------
 Desarrollar diseño para las interiores para cuándo no hay subnivel
 
------- Cambios para el miércoles 08/06 para presentación grupo
+------ Cambios para el miércoles 10/06 para presentación grupo / 9:30 a 10:30 la presentación a las 10 hs.
