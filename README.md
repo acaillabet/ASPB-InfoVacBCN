@@ -33,3 +33,6 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
   - Recuerda
   - Noticias Planes vacunales
   - Sistema de Vigilancia (Pensar nombre)
+
+---------
+Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre"
