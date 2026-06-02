@@ -36,9 +36,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - Desarrollar diseño para los apartados que no tienen subnivel
 - Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre" --> ??
 
-**Objetivo**
-Poder presentar los cambios el miércoles 10/06/2026 en la reunión de equipo.
-La reunión será de 9:30 a 10:30, Ana se unirá a parir de las 10:00.
+**Objetivo**: Poder presentar los cambios el miércoles 10/06/2026 en la reunión de equipo. La reunión será de 9:30 a 10:30, Ana se unirá a parir de las 10:00.
 
 **Baja prioridad**
 - Concretar reunión con Bea para reordenar el contenido de vacunas corporativo
