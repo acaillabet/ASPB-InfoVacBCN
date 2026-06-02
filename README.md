@@ -10,7 +10,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - https://www.figma.com/proto/eOhXGOC0n1TuU8G3sQoGyq/VIBACS-Mockup?node-id=0-1&p=f&viewport=523%2C798%2C0.06&t=iYo52lApxxcsxA71-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=279%3A728&show-proto-sidebar=1
 
 ## Web de InfoVacBCN - Prototipo en FIGMA
-- https://www.figma.com/proto/CdL8SSj1WkTYPy17vVvZvh/ASPB-Vacunas-Mockup?node-id=63-5594&p=f&viewport=19171%2C7957%2C2.07&t=kbPT9dOuru9qCpO0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=63%3A5594&show-proto-sidebar=1&page-id=0%3A1
+- https://www.figma.com/proto/CdL8SSj1WkTYPy17vVvZvh/ASPB-Vacunas-Mockup?node-id=261-6045&scaling=scale-down-width&content-scaling=fixed
 
 ## Reunión 02/06/26
 - Validar por parte de Raul el prototipo (en el sentido que esté todo lo que quieren poner)
