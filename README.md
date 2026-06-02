@@ -26,7 +26,9 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - En lugar de Novetats poer **Actualizaciones SEGIV**
 - En lugar de Noticias poner "Noticias de los planes vacunales"
 
-Documentación operativa  
-Actualizaciones SEGIV  
-Aplicaciones  
-Noticias Planes vacunales  
+**5 Tarjetas**
+  - Documentación operativa  
+  - Actualizaciones SEGIV  
+  - Aplicaciones  
+  - Noticias Planes vacunales
+  - Contenido Coorporativo Vacunas
