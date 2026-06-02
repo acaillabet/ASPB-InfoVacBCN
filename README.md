@@ -18,13 +18,8 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - Aclarar ahora cómo repartirás tu tiempo para que no haya malos entendidos con los objetivos a cumplir.
 
 ## Comentarios Reunión 02/06/26
-- Tiene que haber un VER TODAS
-  - **Recorda...** /// PONERLA EN MODO TARJETA /// 
-  - **Noticias** (va a las Noticias ASPB)
-  - **Més contenidos** / Informes / 
 - Analizar bien el índice / Menú Superior / Diferencia entre Noticias y Novetats
-- En lugar de Novetats poer **Actualizaciones SEGIV**
-- En lugar de Noticias poner "Noticias de los planes vacunales"
+- Sacar las tarjetas del menú lateral (no duplicadas)
 
 **6 Tarjetas** / Pensar los nombres 
   - Documentación operativa  
