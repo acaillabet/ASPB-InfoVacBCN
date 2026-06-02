@@ -31,4 +31,5 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
   - Actualizaciones SEGIV  
   - Aplicaciones 
   - Recuerda
-  - Noticias Planes vacunales / Sistema de Vigilancia (Pensar nombre)
+  - Noticias Planes vacunales
+  - Sistema de Vigilancia (Pensar nombre)
