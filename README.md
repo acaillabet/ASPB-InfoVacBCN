@@ -17,7 +17,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - Comentar los próximos pasos a seguir (maquetación en HTML / gestor de contenidos / Aclarando que es una tarea que hay que ver con que herramienta se lleva a cabo y dado que es algo nuevo para vos es complejo establecer el tiempo de desarrollo)
 - Aclarar ahora cómo repartirás tu tiempo para que no haya malos entendidos con los objetivos a cumplir.
 
-## Comentarios 02/06/26
+## Comentarios Reunión 02/06/26
 - Tiene que haber un VER TODAS
   - **Recorda...** /// PONERLA EN MODO TARJETA /// 
   - **Noticias** (va a las Noticias ASPB)
