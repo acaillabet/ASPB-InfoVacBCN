@@ -28,10 +28,11 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 #### TODO
 - Hacer prototipos de las páginas de los nuevos apartados
 - Diseñar las 6 tarjetas de los apartados e incluirlas en la homepage
-- Buscar nombres para diferenciar entre "Notícies" y "Novetats" --> Preguntar Laura
+- Hablar con Laura para consensuar el nombre de los apartados (para diferenciar entre "Notícies" y "Novetats", por ejemplo)
 - Desarrollar diseño para los apartados que no tienen subnivel
 - Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre" --> ??
 #### DONE
+- Cambiar menú lateral para poner el apartado de la propia pagina el primero --> ✅
 - Substituir "Viure amb salut" por "Sobre InfoVacBCN" en el header --> ✅
 - Inlcuir los 6 apartados en el menú superior --> ✅
 - Eliminar las tarjetas del menú lateral --> ✅
