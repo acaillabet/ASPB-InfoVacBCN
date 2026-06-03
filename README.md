@@ -23,8 +23,8 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
   - Actualitzacions SEGIV
   - Aplicacions
   - Recorda
-  - Notícies plans vacunals
-  - Sistema de Vigilància
+  - Notícies plans vacunals (pensar com posrem les notíces a la página per no saturar)
+  - Sistema de Vigilància (preguntar quin serà el contingut)
 #### TODO
 - Hacer prototipos de las páginas de los nuevos apartados
 - Diseñar las 6 tarjetas de los apartados e incluirlas en la homepage
@@ -38,7 +38,7 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - Eliminar las tarjetas del menú lateral --> ✅
 
 #### Objetivos
-- **Principal:** Presentar los cambios el miércoles 10/06/2026 en la reunión de equipo*
+- **Principal:** Presentar los cambios el jueves 11/06/2026 en la reunión de equipo*
 - **Baja prioridad:** Concretar reunión con Bea para reordenar el contenido de vacunas corporativo  
 
 _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de las 10:00_
