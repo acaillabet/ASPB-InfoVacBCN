@@ -26,9 +26,9 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
   - Notícies plans vacunals (pensar com posrem les notíces a la página per no saturar)
   - Sistema de Vigilància (preguntar quin serà el contingut)
 #### TODO
-- Hacer prototipos de las páginas de los nuevos apartados
 - Arriba poner "InfoVAC BCN Visualizador" / "Acceso usuarios / GEDEM / pensar nombre" --> ??
 #### DONE
+- Hacer prototipos de las páginas de los nuevos apartados --> ✅
 - Hablar con Laura para consensuar el nombre de los apartados (para diferenciar entre "Notícies" y "Novetats", por ejemplo) --> ✅
 - Diseñar las 6 tarjetas de los apartados e incluirlas en la homepage --> ✅
 - Cambiar menú lateral para poner el apartado de la propia pagina el primero --> ✅
