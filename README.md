@@ -44,6 +44,7 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 
 ## Reunión 09/06/26 
 ***Participantes de reunión: Bea, Raul, Ana y Roc***
+***Objetivo: Concretar reunión con Bea para reordenar el contenido de vacunas corporativo***
 - Análisis sobre la información que hay actualmente en Web Coorporativa sobre Vacunas
 - Nuevos productos
   - InfoVacsBCN
