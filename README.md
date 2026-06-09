@@ -57,6 +57,6 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 - Comentarios si todo tiene que estar público o hay una área en privado (por ejemplo Stock Vacunas)  
 - Dice que es una área para profesionales  
 - AQUÍ https://www.aspb.cat/arees/promocio-viure-amb-salut/vacunes/  se podría poner "**Accede al área profesionales**"  
-- Contenido VACUNAS: https://www.aspb.cat/documents/*/*/promocio-viure-amb-salut/vacunes/*
-- Programas: https://www.aspb.cat/documents/programes/*/promocio-viure-amb-salut/vacunes/*  
+- **ATAJOS en InfoVacBCN** Contenido VACUNAS: https://www.aspb.cat/documents/*/*/promocio-viure-amb-salut/vacunes/*
+- **ATAJOS en InfoVacBCN** Programas: https://www.aspb.cat/documents/programes/*/promocio-viure-amb-salut/vacunes/*  
 
