@@ -52,4 +52,4 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
   - GEDEM (gestor de la demanda de Vacunas)
 - **InfoVacsBCN**: Análisis de la sección **NOTICIAS** que estará también en InfoVacsBCN
 - Web Coorporativa ASPB: acutalmente VACUNAS no tiene submenú
-- Comentarios si todo tiene que estar público o hay una área en privado
+- Comentarios si todo tiene que estar público o hay una área en privado (por ejemplo Stock Vacunas)
