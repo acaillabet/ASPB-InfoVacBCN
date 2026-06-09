@@ -59,5 +59,5 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 - AQUÍ https://www.aspb.cat/arees/promocio-viure-amb-salut/vacunes/  se podría poner "**Accede al área profesionales**"  
 - **ATAJOS en InfoVacBCN** Contenido VACUNAS: https://www.aspb.cat/documents/*/*/promocio-viure-amb-salut/vacunes/*
 - **ATAJOS en InfoVacBCN** Programas: https://www.aspb.cat/documents/programes/*/promocio-viure-amb-salut/vacunes/*  
-- Ana hacer Excel con todo el contenido de VACUNAS en Web Coorporativo / Programas / Noticias / Biblioteca  
+- Ana hacer Excel con todo el contenido de VACUNAS en Web Coorporativo / Programas / Noticias / Biblioteca  / Actividad
 
