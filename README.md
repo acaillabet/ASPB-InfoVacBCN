@@ -46,5 +46,5 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 ***Participantes de reunión: Bea, Raul, Ana y Roc***
 - Análisis sobre la información que hay actualmente en Web Coorporativa sobre Vacunas
 - Nuevos productos
-- - InfoVacs
-- - PDF informe online
+  - InfoVacsBCN
+  - PDF informe online
