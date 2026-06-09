@@ -11,7 +11,8 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 
 ## Web de InfoVacBCN - Prototipo en FIGMA
 - https://www.figma.com/proto/CdL8SSj1WkTYPy17vVvZvh/ASPB-Vacunas-Mockup?node-id=261-6045&scaling=scale-down-width&content-scaling=fixed
-
+## SIVAMIN
+https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/I/sivamin/sivamin
 ## Reunión 02/06/26
 - Validar por parte de Raul el prototipo (en el sentido que esté todo lo que quieren poner)
 - Comentar los próximos pasos a seguir (maquetación en HTML / gestor de contenidos / Aclarando que es una tarea que hay que ver con que herramienta se lleva a cabo y dado que es algo nuevo para vos es complejo establecer el tiempo de desarrollo)
