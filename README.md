@@ -47,4 +47,5 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 - Análisis sobre la información que hay actualmente en Web Coorporativa sobre Vacunas
 - Nuevos productos
   - InfoVacsBCN
-  - PDF informe online
+  - Visualizador (Informe online)
+- **InfoVacsBCN**: Análisis de la sección **NOTICIAS** que estará también en InfoVacsBCN
