@@ -49,4 +49,5 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 - Nuevos productos
   - InfoVacsBCN
   - Visualizador (Informe online)
+  - GEDEM (gestor de la demanda de Vacunas)
 - **InfoVacsBCN**: Análisis de la sección **NOTICIAS** que estará también en InfoVacsBCN
