@@ -62,35 +62,81 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 - **ATAJOS en InfoVacBCN** Programas: https://www.aspb.cat/documents/programes/*/promocio-viure-amb-salut/vacunes/*  
 - Ana hacer Excel con todo el contenido de VACUNAS en Web Coorporativo / Programas / Noticias / Biblioteca  / Actividad
 
-**Reunión Servicio 11/06/26**
-
-Reunión 11/06
-Apartado de Sistema de Vigilancia y allí poner el visualizador
-Probar en la portada imitar lo que tienen acutalmente
-Nombres de apartados / 
-Pensar si tiene que estar apartado Noticias
-Sostenibilidad y Acceso (pensar cómo
-Prueba Piloto con Centros Vacunales para que vean si está bien resuelta
-Lanzamiento en Febrero o marzo abril
-Es una herramienta de trabajo / se ahorran muchas preguntas y emails
-Es para referentes de Vacunas (es una herramienta para ellos)
-En Home poner poner también links con todo lo que hay dentro
-Todo lo que hay dentro en cada end Point tal vez no tiene que estar
-—————
-Manual de Vacunas (tiene que estar bien presente)
-Es el que más se hacer servir y la rotura de cadena de frío 
-/ poner cómo destacados / recursos para destacados / 
-—————
-Tarjeta de noticias tiene que estar pero no ocupar el mismo espacio que el resto de las tarjetas.
-Los Stock / buscar un sistema que se pueda consultar pero con un código / pequeña app / 
-Enviar por email también que hay forma de saber que Stock hay / 
-————————
-Tipo pretest - antes y después
-Facilitar llamadas, emails, etc…
-————————————
-Previo funcional con una encuesta
-Es decir una encuesta una vez que se ha publicado preguntando que tal ha ido con una serie de preguntas tipo encuesta…. 
-Una encuesta general luego a todos para ver que tal….
-————
-Reunión un miércoles 08/07 con los cambios de hoy
-
+# Reunión Servicio Vacunas – 11/06/2026
+## 1. Estructura y navegación
+### Sistema de Vigilancia
+* Incorporar el visualizador dentro del apartado de **Sistema de Vigilancia**.
+### Home
+* Realizar una propuesta que imite parcialmente el Excel actual, aprovechando elementos que ya resultan familiares para los usuarios.
+* Incorporar enlaces visibles a los principales contenidos y recursos disponibles dentro de la herramienta.
+* Revisar la nomenclatura de los apartados para asegurar que sea clara y comprensible.
+### Contenidos
+* Valorar si es necesario mantener un apartado específico de **Noticias**.
+* Revisar qué información debe mostrarse en cada endpoint y qué contenidos podrían simplificarse o no ser visibles directamente.
+---
+## 2. Recursos destacados
+### Manual de Vacunas
+Debe tener una presencia muy destacada en la plataforma.
+Se identifica como uno de los recursos más utilizados junto con:
+* Rotura de cadena de frío.
+* Recursos de consulta rápida.
+### Propuesta
+* Crear una sección de **Recursos destacados**.
+* Dar máxima visibilidad al **Manual de Vacunas**.
+---
+## 3. Noticias
+* Mantener una tarjeta de noticias en la portada.
+* La tarjeta debe tener menor protagonismo visual que las tarjetas principales de recursos y herramientas.
+* No debería ocupar el mismo espacio que el resto de elementos destacados.
+---
+## 4. Consulta de stock
+### Necesidad detectada
+* Facilitar la consulta de stock de vacunas.
+### Posibles soluciones
+* Sistema de acceso mediante código.
+* Pequeña aplicación específica para consulta.
+* Complementar la herramienta con avisos o consultas por correo electrónico.
+### Pendiente
+* Definir la solución técnica más adecuada.
+---
+## 5. Objetivos de la herramienta
+La herramienta debe:
+* Reducir llamadas telefónicas.
+* Reducir consultas por correo electrónico.
+* Resolver dudas frecuentes de forma autónoma.
+* Convertirse en una herramienta de trabajo habitual para los referentes de vacunación.
+### Valor añadido identificado
+* Ahorro de tiempo tanto para los usuarios como para el servicio.
+* Disminución de preguntas repetitivas.
+---
+## 6. Validación con usuarios
+### Prueba piloto
+Realizar una prueba piloto con centros vacunales para validar:
+* Navegación.
+* Comprensión de contenidos.
+* Resolución de necesidades reales.
+### Evaluación previa y posterior
+Propuesta de evaluación tipo pretest/postest:
+* Medir la experiencia antes y después de utilizar la herramienta.
+* Valorar si reduce consultas y mejora el acceso a la información.
+---
+## 7. Evaluación tras el lanzamiento
+### Encuesta de satisfacción
+Una vez publicada la herramienta:
+* Enviar una encuesta general a todos los usuarios.
+* Recoger opiniones y detectar mejoras.
+### Aspectos a evaluar
+* Facilidad de uso.
+* Utilidad de los contenidos.
+* Capacidad para resolver dudas.
+* Valoración general de la herramienta.
+---
+## 8. Calendario
+### Lanzamiento previsto
+* Entre febrero y abril de 2027 (pendiente de concretar).
+### Próxima reunión
+**Miércoles 08/07/2026**
+#### Objetivos
+* Revisar los cambios acordados en esta reunión.
+* Validar nuevas propuestas de diseño y estructura.
+* Resolver aspectos pendientes (stock, noticias y arquitectura de contenidos).
