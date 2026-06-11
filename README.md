@@ -1,7 +1,7 @@
 # InfoVacBCN
 Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de la Agencia de Salut Pública de Barcelona (ASPB), correspondiente a mayo de 2026.
 
-## Referencias ASPB / EN PROCESO
+# Referencias ASPB / EN PROCESO
 #### VIBACS Prototipo HTML
 - https://webs.aspb.cat/vibacs/
 #### VIBACS Prototipo Figma Desktop
@@ -13,7 +13,8 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 - https://www.figma.com/proto/CdL8SSj1WkTYPy17vVvZvh/ASPB-Vacunas-Mockup?node-id=261-6045&scaling=scale-down-width&content-scaling=fixed
 ## SIVAMIN
 https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/I/sivamin/sivamin
-## Reunión 02/06/26
+
+# Reunión 02/06/26
 - Validar por parte de Raul el prototipo (en el sentido que esté todo lo que quieren poner)
 - Comentar los próximos pasos a seguir (maquetación en HTML / gestor de contenidos / Aclarando que es una tarea que hay que ver con que herramienta se lleva a cabo y dado que es algo nuevo para vos es complejo establecer el tiempo de desarrollo)
 - Aclarar ahora cómo repartirás tu tiempo para que no haya malos entendidos con los objetivos a cumplir.
@@ -43,7 +44,7 @@ https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/I/sivamin/s
 
 _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de las 10:00_
 
-## Reunión 09/06/26 
+# Reunión 09/06/26 
 ***Participantes de reunión: Bea, Raul, Ana y Roc***
 ***Objetivo: Concretar reunión con Bea para reordenar el contenido de vacunas corporativo***
 - Análisis sobre la información que hay actualmente en Web Coorporativa sobre Vacunas
