@@ -62,3 +62,35 @@ _*La reunión de equipo tendrá lugar de 9:30 a 10:30 y Ana se unirá a parir de
 - **ATAJOS en InfoVacBCN** Programas: https://www.aspb.cat/documents/programes/*/promocio-viure-amb-salut/vacunes/*  
 - Ana hacer Excel con todo el contenido de VACUNAS en Web Coorporativo / Programas / Noticias / Biblioteca  / Actividad
 
+**Reunión Servicio 11/06/26**
+
+Reunión 11/06
+Apartado de Sistema de Vigilancia y allí poner el visualizador
+Probar en la portada imitar lo que tienen acutalmente
+Nombres de apartados / 
+Pensar si tiene que estar apartado Noticias
+Sostenibilidad y Acceso (pensar cómo
+Prueba Piloto con Centros Vacunales para que vean si está bien resuelta
+Lanzamiento en Febrero o marzo abril
+Es una herramienta de trabajo / se ahorran muchas preguntas y emails
+Es para referentes de Vacunas (es una herramienta para ellos)
+En Home poner poner también links con todo lo que hay dentro
+Todo lo que hay dentro en cada end Point tal vez no tiene que estar
+—————
+Manual de Vacunas (tiene que estar bien presente)
+Es el que más se hacer servir y la rotura de cadena de frío 
+/ poner cómo destacados / recursos para destacados / 
+—————
+Tarjeta de noticias tiene que estar pero no ocupar el mismo espacio que el resto de las tarjetas.
+Los Stock / buscar un sistema que se pueda consultar pero con un código / pequeña app / 
+Enviar por email también que hay forma de saber que Stock hay / 
+————————
+Tipo pretest - antes y después
+Facilitar llamadas, emails, etc…
+————————————
+Previo funcional con una encuesta
+Es decir una encuesta una vez que se ha publicado preguntando que tal ha ido con una serie de preguntas tipo encuesta…. 
+Una encuesta general luego a todos para ver que tal….
+————
+Reunión un miércoles 08/07 con los cambios de hoy
+
