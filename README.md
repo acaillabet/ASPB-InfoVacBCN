@@ -20,7 +20,7 @@ https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/I/sivamin/s
    - LINK 01
    - LINK 02
    - LINK 03
-- VER TODA LA DOCUMENTACIÓN
+   - VER TODA LA DOCUMENTACIÓN
 - LUGAR PARA END POINT destacados en HOME (Por ejemplo **Manual de Vacunación de Barecelona**) /// 
 - Stock no se pondrá (porque no puede estar abierto a todo el público)
 
