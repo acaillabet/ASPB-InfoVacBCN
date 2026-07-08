@@ -24,7 +24,7 @@ https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/I/sivamin/s
 - LUGAR PARA END POINT destacados en HOME (Por ejemplo **Manual de Vacunación de Barecelona**) /// 
 - Stock no se pondrá (porque no puede estar abierto a todo el público)
 - TAREAS HACER TEXTOS
-- Sacar el menú superior para navegar porque se repite con el lateral
+- Sacar el menú superior para navegar porque se repite con el LATERAL
 
 # Reunión 02/06/26
 - Validar por parte de Raul el prototipo (en el sentido que esté todo lo que quieren poner)
