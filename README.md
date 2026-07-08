@@ -14,6 +14,10 @@ Repositorio para el diseño de componentes y maquetación HTML del InfoVacBCN de
 ## SIVAMIN
 https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/I/sivamin/sivamin
 
+# Reunión 08/07/26 con EQUIPO Vacunas
+- Repasamos todos los comentarios que se habló en la última reunión en el equipo
+- TARJETAS HOME poner el listado cosas que hay. Tal vez hacer como un desplegable para que se puedan ver todos. Solo nombres no poner links)
+
 # Reunión 02/06/26
 - Validar por parte de Raul el prototipo (en el sentido que esté todo lo que quieren poner)
 - Comentar los próximos pasos a seguir (maquetación en HTML / gestor de contenidos / Aclarando que es una tarea que hay que ver con que herramienta se lleva a cabo y dado que es algo nuevo para vos es complejo establecer el tiempo de desarrollo)
