@@ -16,7 +16,9 @@ https://pestadistico.inteligenciadegestion.sanidad.gob.es/publicoSNS/I/sivamin/s
 
 # Reunión 08/07/26 con EQUIPO Vacunas
 - Repasamos todos los comentarios que se habló en la última reunión en el equipo
-- TARJETAS HOME poner el listado cosas que hay. Tal vez hacer como un desplegable para que se puedan ver todos. Solo nombres no poner links)
+- TARJETAS HOME poner el listado cosas que hay. 
+  Tal vez hacer como un desplegable para que se puedan ver todos. 
+  Solo nombres no poner links. 
 - LUGAR PARA END POINT destacados en HOME (Por ejemplo **Manual de Vacunación de Barecelona**) /// 
 - Stock no se pondrá (porque no puede estar abierto a todo el público)
 
